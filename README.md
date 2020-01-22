@@ -1,2 +1,4 @@
-# pggin
-postgresql backend for gin-gonic session middleware
+# PGGINSESSIONS
+A Postgresql backend for Gin-gonic session middleware
+
+
