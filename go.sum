@@ -1,5 +1,3 @@
-github.com/antonlindstrom/pgstore v0.0.0-20170604072116-a407030ba6d0 h1:e6PEaXbztY0ViaKotCICNnBQDUeNEJgrQ5UAHWlloh4=
-github.com/antonlindstrom/pgstore v0.0.0-20170604072116-a407030ba6d0/go.mod h1:2Ti6VUHVxpC0VSmTZzEvpzysnaGAfGBOoMIz5ykPyyw=
 github.com/boj/redistore v0.0.0-20180917114910-cd5dcc76aeff/go.mod h1:+RTT1BOk5P97fT2CiHkbFQwkK3mjsFAP6zCYV2aXtjw=
 github.com/bradfitz/gomemcache v0.0.0-20190329173943-551aad21a668/go.mod h1:H0wQNHz2YrLsuXOZozoeDmnHXkNCRmMW0gwFWDfEZDA=
 github.com/bradleypeabody/gorilla-sessions-memcache v0.0.0-20181103040241-659414f458e1/go.mod h1:dkChI7Tbtx7H1Tj7TqGSZMOeGpMP5gLHtjroHd4agiI=
@@ -48,6 +46,10 @@ github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINE
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/quasoft/memstore v0.0.0-20180925164028-84a050167438/go.mod h1:wTPjTepVu7uJBYgZ0SdWHQlIas582j6cn2jgk4DDdlg=
+github.com/rexfordnyrk/pgstore v0.0.0-20170604072116-a407030ba6d0 h1:Jnqvl5uX9c7vaYWfUZam07Lk/QRqRVh0+c9tzv0gtn4=
+github.com/rexfordnyrk/pgstore v0.0.0-20170604072116-a407030ba6d0/go.mod h1:Vj2Z/5X9Iywpi/+CXggHc6Suv3BOt8x2FcMyzlFyjt8=
+github.com/rexfordnyrk/pgstore v0.0.0-20200123065856-b7c43afb0476 h1:laIg1SGW9X8+eIVHI/TtmRM8xJgTh2XGhoU10Gfgg7Y=
+github.com/rexfordnyrk/pgstore v0.0.0-20200123065856-b7c43afb0476/go.mod h1:I8X+V6ZiFUJSV/z5HAEA1AJJRMYnjAH84YG9tYhGWoI=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=
